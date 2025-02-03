@@ -1,4 +1,4 @@
-# Mastering Google Cloud as Cloud Architect
+# Google Cloud Architect Handbook
 
 This is the repository for Google Cloud Architect Handbook,published by BPB Publications.
 
